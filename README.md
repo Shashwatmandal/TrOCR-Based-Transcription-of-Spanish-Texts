@@ -98,7 +98,7 @@ Model performance is evaluated using:
 WER quantifies how many words were incorrectly predicted compared to the ground truth. It is calculated as:
 
 \[
-\{WER} = {S + D + I}/{N}
+\ WER = (S + D + I) / N
 \]
 
 - `S`: Substitutions  
