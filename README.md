@@ -73,7 +73,8 @@ This architecture allows for highly accurate and robust OCR, even in zero-shot s
 - **Capability:** **Zero-shot text classification**, enabling generalization to new and unseen styles or classes of text
 
 > Zero-shot classification allows the model to recognize and transcribe previously unseen character sets or layouts without retraining on them.
-> ![Model Architecture]([image_url_or_path](https://huggingface.co/qantev/trocr-large-spanish/resolve/main/background_encoder_decoder.png))
+
+![Model Architecture](background_encoder_decoder.png)
 
 
 ---
