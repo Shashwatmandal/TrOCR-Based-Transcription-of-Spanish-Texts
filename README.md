@@ -122,8 +122,3 @@ Similar to WER, but calculated at the character level—offering a finer granula
 
 ---
 
-## 👤 Author
-
-**Shashwat Mandal**  
-📍 IIT(ISM) Dhanbad  
-
